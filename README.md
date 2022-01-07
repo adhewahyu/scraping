@@ -1,5 +1,5 @@
 # scraping
- Learning web scraping
+ Lear web scraping using jsoup
 
 Must have :
 - Java JDK version 11 or later
